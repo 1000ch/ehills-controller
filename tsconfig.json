@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "ES2022",
+    "target": "ES2022",
+    "rootDir": "src",
+    "outDir": "out",
+    "lib": ["es2020", "DOM"],
+    "types": ["node"],
+    "esModuleInterop": true,
+    "strictNullChecks": true,
+    "moduleResolution": "nodenext"
+  }
+}
